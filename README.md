@@ -26,11 +26,7 @@ This project is a **CRUD (Create, Read, Update, Delete) application** built usin
 ```
 
 ## 🔥 Installation & Setup
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
+1. https://github.com/Nishtha4210/firebase-database-4210.git
 2. **Install dependencies**
    ```sh
    npm install
@@ -50,5 +46,5 @@ This project is a **CRUD (Create, Read, Update, Delete) application** built usin
 This project is licensed under the **MIT License**.
 
 ---
-Developed  by [Nishtha](https://github.com/your-username)
+Developed  by [Nishtha](https://github.com/Nishtha4210)
 
